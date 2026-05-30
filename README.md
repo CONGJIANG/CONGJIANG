@@ -1,16 +1,33 @@
-## Hi there 👋
+# Cong Jiang
 
-<!--
-**CONGJIANG/CONGJIANG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Assistant Professor of Biostatistics
+SUNY Downstate Health Sciences University
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Causal Inference
+- Statistical Machine Learning
+- Transportability and Data Fusion
+- Personalized Medicine
+- Semiparametric Theory
+
+## Applications
+
+- HIV
+- Tuberculosis
+- Oral Health
+- Comparative Effectiveness Research
+
+## Software
+
+- gace
+- medcens
+- sim-tmle
+
+## Links
+
+🌐 Website: https://congjiang.github.io
+
+🆔 ORCID: https://orcid.org/0000-0002-4486-5423
+
+💼 LinkedIn: https://www.linkedin.com/in/clarencejiang/
