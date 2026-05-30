@@ -1,26 +1,8 @@
-# Cong Jiang
+## Cong Jiang
 
-Assistant Professor of Biostatistics
-SUNY Downstate Health Sciences University
+I'm a biostatistician working at the intersection of causal inference, machine learning, and semiparametric theory.
 
-## Research Interests
-
-- Causal Machine Learning
-- Transportability and Data Fusion
-- Personalized Medicine
-- Semiparametric Theory
-
-## Applications
-
-- HIV
-- Tuberculosis
-- Oral Health
-- Comparative Effectiveness Research
-
-## Software
-
-- TNDDR
-- END_TB_COM
+My research focuses on developing robust and efficient methods for transportability, comparative effectiveness research, individualized treatment rules, and causal mediation analysis, motivated by applications in infectious diseases and precision medicine.
 
 
 ## Links
