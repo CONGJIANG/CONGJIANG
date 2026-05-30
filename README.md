@@ -5,8 +5,7 @@ SUNY Downstate Health Sciences University
 
 ## Research Interests
 
-- Causal Inference
-- Statistical Machine Learning
+- Causal Machine Learning
 - Transportability and Data Fusion
 - Personalized Medicine
 - Semiparametric Theory
